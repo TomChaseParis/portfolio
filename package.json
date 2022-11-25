@@ -1,6 +1,6 @@
 {
-  "name": "thomas-chazal",
-  "version": "0.1.0",
+  "name": "portfolio",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
